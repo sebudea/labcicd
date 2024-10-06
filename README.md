@@ -11,7 +11,7 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=sebudea_labcicd&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=sebudea_labcicd)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sebudea_labcicd&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=sebudea_labcicd)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=sebudea_labcicd&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=sebudea_labcicd)
-
+ 
 
 Implementation of a Simple App with the next operations:
 
