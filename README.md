@@ -12,7 +12,7 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sebudea_labcicd&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=sebudea_labcicd)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=sebudea_labcicd&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=sebudea_labcicd)
 
-(https://snyk.io/test/github/{alexvadelgado}/{labcicd}/badge.svg)](https://snyk.io/test/github/{alexvadelgado}/{labcicd})
+(https://snyk.io/test/github/{sebudea}/{labcicd}/badge.svg)](https://snyk.io/test/github/{sebudea}/{labcicd})
 
 Implementation of a Simple App with the next operations:
 
